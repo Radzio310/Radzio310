@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any level in a company, which work in IT, especially if I can learn and gain experience at this company
 - 📫 How to reach me:
 - mail: radek.witkowicz9@gmail.com
-- mobile: 662 471 178
 - linkedin: https://www.linkedin.com/in/rados%C5%82aw-witkowicz-b5b965289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - facebook: https://www.facebook.com/radek.witkowicz.9/
 
