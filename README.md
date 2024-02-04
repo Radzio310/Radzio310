@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Radek Witkowicz
 - 👀 I’m interested in programming and creating applications
-- 🌱 I’m currently learning Python and Java, while I already use C#, SQL and slightly C++
+- 🌱 I’m currently learning at the University of Economics in Katowice
 - 💞️ I’m looking to collaborate on any level in a company, which work in IT, especially if I can learn and gain experience at this company
 - 📫 How to reach me:
 - mail: radek.witkowicz9@gmail.com
